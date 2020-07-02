@@ -3,16 +3,45 @@
 <head>
     <meta charset="UTF-8">
     <title>Hover</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
     <link rel="stylesheet" href="css/hover.css">
 </head>
 <body>
-<div class="wrapper">
-    <div id="image"></div>
-    <div id="magnifier"></div>
-</div>
-<div id="info"></div>
-<button id="next">next</button>
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <div id="image-wrapper" class="wrapper">
+                <div id="image"></div>
+                <div id="magnifier"></div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-8 col-sm-12">
+            <div id="info"></div>
+        </div>
+        <div class="col-md-4 col-sm-12">
+            <button type="button" class="btn btn-secondary disabled" id="next">next</button>
+        </div>
+    </div>
 
+    <div class="row">
+        <div class="col-md-8 col-sm-12">
+            <div>
+
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/html" id="q1">
+
+</script>
+<script type="text/html" id="t2">
+
+</script>
+<script type="text/html" id="t3">
+
+</script>
 <script src="js/jquery-3.5.1.js"></script>
 <script src="js/hover.js"></script>
 </body>

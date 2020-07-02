@@ -1,17 +1,23 @@
 .wrapper {
     position: relative;
+    overflow: hidden;
 }
 #image {
-    width: 400px;
-    height: 600px;
-    background-size: 400px auto;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 #magnifier {
-    background-size: 400px auto;
     width: 100px;
     height: 100px;
     position: absolute;
     border-radius: 50px;
     transition: all .1s;
     pointer-events: none;
+    cursor: pointer;
+}
+#info {
+    min-height: 20vh;
+}
+#next.disabled {
+    cursor: default;
 }

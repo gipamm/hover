@@ -4,14 +4,15 @@
     "x": 100,
     "y": 300,
     "r": 50,
-    "text": "<p>sdjfhsjdfhj jhj</p><p>sdfkshdjfhsdjkh</p>"
+    "question": "",
+    "text": "t1"
   },
   {
     "src": "img/p1.jpg",
     "x": 0,
     "y": 0,
     "r": 50,
-    "text": "<p>sdjfhsjdfhj jhj</p><p>sdfkshdjfhsdjkh</p>"
+    "text": "t2"
   },
   {
     "src": "img/p2.jpg",
