@@ -1,0 +1,37 @@
+[
+  {
+    "src": "img/p1.jpg",
+    "x": 100,
+    "y": 300,
+    "r": 50,
+    "text": "<p>sdjfhsjdfhj jhj</p><p>sdfkshdjfhsdjkh</p>"
+  },
+  {
+    "src": "img/p1.jpg",
+    "x": 0,
+    "y": 0,
+    "r": 50,
+    "text": "<p>sdjfhsjdfhj jhj</p><p>sdfkshdjfhsdjkh</p>"
+  },
+  {
+    "src": "img/p2.jpg",
+    "x": 200,
+    "y": 200,
+    "r": 50,
+    "text": "layer 2"
+  },
+  {
+    "src": "img/p3.jpg",
+    "x": 150,
+    "y": 100,
+    "r": 50,
+    "text": "layer 3"
+  },
+  {
+    "src": "img/p4.jpg",
+    "x": 250,
+    "y": 200,
+    "r": 50,
+    "text": "layer 4"
+  }
+]
