@@ -4,7 +4,7 @@
     "x": 100,
     "y": 300,
     "r": 50,
-    "question": "",
+    "question": "q1",
     "text": "t1"
   },
   {
@@ -12,14 +12,14 @@
     "x": 0,
     "y": 0,
     "r": 50,
-    "text": "t2"
+    "text": "t1"
   },
   {
     "src": "img/p2.jpg",
     "x": 200,
     "y": 200,
     "r": 50,
-    "text": "layer 2"
+    "text": "t2"
   },
   {
     "src": "img/p3.jpg",
